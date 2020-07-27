@@ -2,4 +2,4 @@
 
 Thank for your advice to our game!
 
-[click hear to add issues](https://github.com/hero123457/silver_lining_team/issues)
+[click here to add issues](https://github.com/hero123457/silver_lining_team/issues)
